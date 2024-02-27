@@ -16,6 +16,7 @@ logical instructions that perform bitwise AND, OR, and XOR operations.
 shift instructions that perform shift left logical and shift right arithmetic operations.
 ## BRZ/BRNZ/BRGT/BRGE/BRLE: 
 branch instructions that perform jumps based on zero, non-zero, greater than, greater or equal, less or equal conditions.
+<br>![image](https://github.com/KaNiuSii/escape1/assets/123270897/995a8475-e6e4-4be3-aad8-c3332a112562)<br>
 
 *Each mnemonic is followed by its operand specification in brackets. For instance, r1, r2, r3 for an ADD operation means that the instruction will add the contents of registers r2 and r3, and store the result in register r1.*
 
